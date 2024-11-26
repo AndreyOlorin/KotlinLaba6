@@ -55,5 +55,4 @@ class CrimeFragment : Fragment() {
             setOnCheckedChangeListener { _, isChecked -> crime.isSolved = isChecked}
         }
     }
-
 }
